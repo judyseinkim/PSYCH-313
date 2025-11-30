@@ -9,12 +9,12 @@ ID,PetType,StudyEnvironment,Testscore2
 28,Cat,CoffeeShop,82.9
 29,Cat,CoffeeShop,85.6
 30,Cat,CoffeeShop,84.8
-61,Cat,CoffeeShop,83.3
+61,Cat,CoffeeShop,89.3
 62,Cat,CoffeeShop,85.8
-63,Cat,CoffeeShop,82.1
+63,Cat,CoffeeShop,86.1
 64,Cat,CoffeeShop,84.2
 65,Cat,CoffeeShop,81.9
-66,Cat,CoffeeShop,83.7
+66,Cat,CoffeeShop,87.7
 67,Cat,CoffeeShop,85.1
 68,Cat,CoffeeShop,91.3
 69,Cat,CoffeeShop,93.5
@@ -99,3 +99,4 @@ ID,PetType,StudyEnvironment,Testscore2
 98,Dog,Library,79.6
 99,Dog,Library,81.9
 100,Dog,Library,89.4
+
