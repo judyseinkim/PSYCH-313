@@ -1,10 +1,10 @@
 ID,PetType,StudyEnvironment,Testscore2
-21,Cat,CoffeeShop,82.5
-22,Cat,CoffeeShop,85.2
-23,Cat,CoffeeShop,83.1
+21,Cat,CoffeeShop,83.5
+22,Cat,CoffeeShop,86.2
+23,Cat,CoffeeShop,84.1
 24,Cat,CoffeeShop,88
-25,Cat,CoffeeShop,81.7
-26,Cat,CoffeeShop,83.8
+25,Cat,CoffeeShop,82.7
+26,Cat,CoffeeShop,84.8
 27,Cat,CoffeeShop,86
 28,Cat,CoffeeShop,82.9
 29,Cat,CoffeeShop,85.6
@@ -13,7 +13,7 @@ ID,PetType,StudyEnvironment,Testscore2
 62,Cat,CoffeeShop,85.8
 63,Cat,CoffeeShop,87.1
 64,Cat,CoffeeShop,84.2
-65,Cat,CoffeeShop,81.9
+65,Cat,CoffeeShop,83.9
 66,Cat,CoffeeShop,87.7
 67,Cat,CoffeeShop,85.1
 68,Cat,CoffeeShop,91.3
@@ -70,10 +70,10 @@ ID,PetType,StudyEnvironment,Testscore2
 79,Cat,Library,78.4
 80,Cat,Library,79
 11,Dog,Library,80.1
-12,Dog,Library,78.8
+12,Dog,Library,79.8
 13,Dog,Library,86.9
 14,Dog,Library,81.6
-15,Dog,Library,79.5
+15,Dog,Library,80.5
 16,Dog,Library,82.3
 17,Dog,Library,76.9
 18,Dog,Library,80.4
@@ -81,8 +81,8 @@ ID,PetType,StudyEnvironment,Testscore2
 20,Dog,Library,79.2
 51,Dog,Library,81
 52,Dog,Library,80.3
-53,Dog,Library,78.5
-54,Dog,Library,79.8
+53,Dog,Library,87.5
+54,Dog,Library,83.8
 55,Dog,Library,82.3
 56,Dog,Library,82
 57,Dog,Library,78.7
@@ -96,8 +96,9 @@ ID,PetType,StudyEnvironment,Testscore2
 95,Dog,Library,81.2
 96,Dog,Library,80.7
 97,Dog,Library,78.8
-98,Dog,Library,79.6
+98,Dog,Library,84.6
 99,Dog,Library,81.9
 100,Dog,Library,89.4
+
 
 
